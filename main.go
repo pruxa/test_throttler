@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/pruxa/tets_trotler/throttler"
+	"github.com/pruxa/test_throttler/throttler"
 )
 
 func main() {

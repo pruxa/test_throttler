@@ -1,4 +1,4 @@
-# tets_trotler
+# test_throttler
 
 ### Description
 Implement a throttler that executes a list of tasks. 
